@@ -8,7 +8,7 @@ Shift iQ is the technology behind many great online platforms and programs, incl
 * [Cross-Trade Pathways](https://www.crosstrade.ca/)
 * [Facility Access to Skilled Trades](https://fastcanada.ca)
 
-# About the Software Development Kit
+## About the Software Development Kit
 
 This repository contains free and open source code for a Software Development Kit (SDK) that can be used by third-party developers to integrate Shift iQ into their own applications, libraries, and business intelligence reporting tools.
 
