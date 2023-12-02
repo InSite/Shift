@@ -1,4 +1,4 @@
-# Shift iQ
+![Shift iQ](https://www.shiftiq.com/images/logos/shift-iq.png)
 
 Shift iQ is a learning management system that specializes in the assessment of skills to align talent to career and training pathways. It features a comprehensive, competency-based approach, and it provides a credible record of demonstrated knowledge and achieved skills. 
 
