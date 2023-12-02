@@ -38,9 +38,9 @@ This is a .NET 8.0 console application that demonstrates how to use the SDK in a
 
 This is a .NET Framework 4.8 library in which developers can define the inventory of API endpoints to be used by their application. It uses [Refit](https://github.com/reactiveui/refit) to dynamically generate the implementation for a REST API interface.
 
-#### Shift.Api.Sdk.Core.Demo
+#### Shift.Api.Sdk.Framework.Demo
 
-This is a .NET 8.0 console application that demonstrates how to use the SDK in a .NET (Core) application.
+This is a .NET Framework 4.8 console application that demonstrates how to use the SDK in a .NET Framework application.
 
 * To run this demo, simply update the configurating settings in `App.config` with the Developer API Token Secret (and the API Endpoint URL) provided by Shift iQ to your organization.
 
