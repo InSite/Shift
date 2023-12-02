@@ -90,4 +90,4 @@ We recommend using Postman to experiment with the API. Here are the steps to do 
 * In the Token field, enter your API key value.
 * For added security, store it in a variable and reference the variable by name.
 
-Please note that each API endpoint has an [access-control list](https://en.wikipedia.org/wiki/Access-control_list) managed by the Shift iQ development team. The access-control list for a given endpoint determines the permissions associated with it. If you send a request to an endpoint and your account is not granted access to it, then you will receive an 403 Forbidden response. Contact our DevOps team if you need an update to your account permissions.
+Please note that each API endpoint has an [access-control list](https://en.wikipedia.org/wiki/Access-control_list) managed by the Shift iQ DevOps team. The access-control list for a given endpoint determines the permissions associated with it. If you send a request to an endpoint and your account is not granted access to it, then you will receive an 403 Forbidden response. Contact our team if you need an update to your account permissions.
