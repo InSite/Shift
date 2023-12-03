@@ -24,9 +24,7 @@ Here's a summary of what's included in the source code for the SDK:
 
 ### Shift.Contract
 
-This is a .NET Standard 2.0 library that contains C# classes for all Request and Response objects supported by the API. It is not required in your applications, but may provide a useful reference for the design and implementation of your own request and response objects. 
-
-Because this library is implemented using .NET Standard 2.0, you can reference it from a .NET Core application and/or a .NET Framework application.
+This is a .NET Standard 2.0 library that contains C# classes for all Request and Response objects supported by the API. It is not required in your application, but it does provide a useful reference for the design and implementation of your own request and response objects. Because this library is implemented using .NET Standard 2.0, you can reference it from a .NET Core application and/or a .NET Framework application.
 
 ### Shift.Api.Sdk.Core
 
@@ -34,9 +32,7 @@ This is a .NET 8.0 library in which developers can define the inventory of API e
 
 ### Shift.Api.Sdk.Core.Demo
 
-This is a .NET 8.0 console application that demonstrates how to use the SDK in a .NET (Core) application.
-
-* To run this demo, simply update the configurating settings in `AppSettings.json` with the Developer API Token Secret (and the API Endpoint URL) provided by Shift iQ to your organization.
+This is a .NET 8.0 console application that demonstrates how to use the SDK in a .NET (Core) application. To run this demo, simply update the configurating settings in `AppSettings.json` with the Developer API Token Secret (and the API Endpoint URL) provided by Shift iQ to your organization.
 
 ### Shift.Api.Sdk.Framework
 
@@ -44,9 +40,7 @@ This is a .NET Framework 4.8 library in which developers can define the inventor
 
 ### Shift.Api.Sdk.Framework.Demo
 
-This is a .NET Framework 4.8 console application that demonstrates how to use the SDK in a .NET Framework application.
-
-To run this demo, simply update the configurating settings in `App.config` with the Developer API Token Secret (and the API Endpoint URL) provided by Shift iQ to your organization.
+This is a .NET Framework 4.8 console application that demonstrates how to use the SDK in a .NET Framework application. To run this demo, simply update the configurating settings in `App.config` with the Developer API Token Secret (and the API Endpoint URL) provided by Shift iQ to your organization.
 
 ## Get Started
 
